@@ -1,0 +1,89 @@
+---
+title: "September 2020 meeting planning"
+author: "Frederick J. Boehm"
+date: "9/15/2020"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+
+## Accomplishments from last year
+
+1. Aided Clare et al. in analyzing CC lines
+1. Began developing "reduced models" project for DO and CC QTL mapping studies
+1. Learned some aspects of TIMBR for allelic series
+1. Presented poster at Keystone TB meeting in January
+1. Taught QTL mapping tutorial to lab members
+1. Became JOSS editor
+1. Became member of GSA ECS Committee
+1. JSE mentoring paper provisionally accepted!
+1. Journal club with Abbas
+1. Began exploring RNAseq DO data from FDA. gbrs is installed on GHPCC!
+1. Aided Clare's student Rachel in working with Github
+1. Started thinking about approaches to promoting racial equity and diversity in science professions
+1. Presented thesis research at GSA ECS Webinar in October (or late September??)
+
+  
+
+
+
+## Research Goals for September 2021
+
+1. Continue collaboration with FDA & DO mice (allelic series-informed, reduced models as one idea)
+  - Analyze existing bulk blood RNAseq data from DO mice
+  - Analyze individual TNseq traits in CC
+  - Map resulting gene expression traits (from DO RNASeq) in pre-vaccination mice
+  - Also, examine DE gene expression traits (differentially expressed between pre- and post-vaccination)
+  - Learn methods for DE studies from bulk RNAseq data
+  - Meet more regularly, at least once per month, with Sherry Kurtz
+
+1. Continue working with Abbas - macrophage cell lines
+  - Develop analytical pipeline for scRNAseq analysis from DO and CC-derived macrophages
+  - Develop and implement quality control methods for scRNAseq from macrophages
+  - Implement statistical design principles for macrophage cell line experiment planning
+  - Clarify - with Abbas and Chris - scientific goals for macrophage cell line studies
+    - Are additional 'omics measurements useful or needed?
+  
+
+
+
+
+## Professional and Personal Goals for September 2021
+
+Continue as JOSS editor
+
+Contribute to JOSS 4-year paper writing
+
+Continue with GSA ECS committee
+
+Choose one research meeting to present at -- maybe ENAR Spring 2021 or a summer meeting?
+
+Write a covid19 JSE paper with Bret H. 
+
+Continue weekly journal club with Abbas. Maybe advertise it to other scientists? 
+
+Complete UMass book club on "How to be an antiracist".
+
+Think about how I might connect with other biostatisticians.
+
+Grow my professional network in biostatistics and biology.
+
+
+
+
+
+
+## Feedback for PI
+
+I'm very grateful for the scientific, professional, and personal support. 
+
+I also appreciate your enthusiasm for group discussions about outreach and activities to promote equity in STEM. 
+
+You've been very available to me, yet I've been reluctant to schedule more regular meetings. Maybe I feel like I'd be imposing? I'm not sure, but I think that I'd benefit from more communication between us.
+
+
+
+
+
+
